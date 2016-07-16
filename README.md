@@ -21,6 +21,6 @@ Find out more [Free Angular Themes at StartAngular.com](http://www.startangular.
 ### Goodness of Bootstrap Less
 In the source, we have the less files of Bootstrap attached and the variables have been updated to create this theme. You can change the variable in the less file. Animation and Transitions are in separate less file.   
 
-### Automation tools
+### Automation toolsa
 
 - [Gulp](http://gulpjs.com/)
